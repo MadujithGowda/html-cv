@@ -1,0 +1,17 @@
+body{
+  background-color: #e7f4ff;
+}
+
+img{
+  height: 250px;
+  width:250px;
+}
+a{
+  text-decoration: none;
+}
+table{
+  border:2px solid black;
+}
+#intro{
+  border:none;
+}
