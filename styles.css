@@ -1,10 +1,10 @@
 body{
-  background-color: #e7f4ff;
+  background-color: #eaf6f6;
 }
 
 img{
-  height: 250px;
-  width:250px;
+  height: 200px;
+  width:200px;
 }
 a{
   text-decoration: none;
@@ -14,4 +14,26 @@ table{
 }
 #intro{
   border:none;
+}
+h1,h3{
+  color: #66bfbf;
+}
+h1:hover{
+  transform: scaleY(1.5);
+  
+}
+.footer{
+  background-color:grey;
+}
+.footer span{
+  margin-left: 45%;
+  font-size:2em;
+  color:#66bfbf;
+}
+.footer span:hover{
+  color:aqua;
+ 
+}
+a:hover{
+  color:grey;
 }
